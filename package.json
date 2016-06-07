@@ -1,0 +1,24 @@
+{
+  "name": "require.context",
+  "version": "0.0.1",
+  "description": "dynamic require.context for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeliex/require.context.git"
+  },
+  "keywords": [
+    "require",
+    "context",
+    "node"
+  ],
+  "author": "yeliex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeliex/require.context/issues"
+  },
+  "homepage": "https://github.com/yeliex/require.context#readme"
+}
